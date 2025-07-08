@@ -11,7 +11,7 @@ class QuantumBookstoreFullTest:
         # Add books
         b1 = PaperBook("001", "Clean Code", 2008, 300, "Robert Martin", 10)
         b2 = Ebook("002", "Deep Learning", 2016, 150, "Ian Goodfellow", "pdf")
-        b3 = ShowcaseBook("003", "The Art of War", 1950, 0, "Sun Tzu")
+        b3 = ShowcaseBook("003", "msh3aref", 1950, 0, "ana")
 
         inventory.add_book(b1)
         inventory.add_book(b2)
@@ -22,12 +22,12 @@ class QuantumBookstoreFullTest:
 
         # Buy books
         try:
-            inventory.buy_book("001", 2, "user@example.com", "123 Street, Cairo")
+            inventory.buy_book("001", 2, "ali@hobalala.com", "123 Street, giza")
         except Exception as e:
             print(e)
 
         try:
-            inventory.buy_book("002", 1, "user@example.com", "123 Street, Cairo")
+            inventory.buy_book("002", 1, "user@example.com", "123 Street, 3ezbt elnakhl")
         except Exception as e:
             print(e)
 
