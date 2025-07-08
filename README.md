@@ -67,14 +67,14 @@ This will simulate:
 ```
 Quantum book store: Added Clean Code (2008) by Robert Martin
 Quantum book store: Added Deep Learning (2016) by Ian Goodfellow
-Quantum book store: Added The Art of War (1950) by Sun Tzu
+Quantum book store: Added msh3aref (1950) by ana
 
 Quantum book store: Removed 1 outdated books.
 
-Quantum book store: Shipping 'Clean Code' to 123 Street, Cairo
+Quantum book store: Shipping 'Clean Code' to 123 Street, giza
 Quantum book store: Paid amount = 600
 
-Quantum book store: Sending 'Deep Learning' to user@example.com
+Quantum book store: Sending 'Deep Learning' to fawry@hobalala.com
 Quantum book store: Paid amount = 150
 
 Quantum book store: This book is not for sale.
