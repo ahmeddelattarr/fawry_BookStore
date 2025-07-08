@@ -7,7 +7,7 @@ A console-based Python bookstore system designed with clean OOP principles, modu
 
 ---
 
-## ✅ Features
+##  Features
 
 - ✅ Add books to inventory
 - ✅ Handle 3 distinct book types:
@@ -23,7 +23,7 @@ A console-based Python bookstore system designed with clean OOP principles, modu
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 
@@ -48,7 +48,7 @@ fawry-bookstore/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ```bash
 python test.py
@@ -62,7 +62,7 @@ This will simulate:
 
 ---
 
-## 🖨 Sample Console Output
+##  Sample Console Output
 
 ```
 Quantum book store: Added Clean Code (2008) by Robert Martin
@@ -82,7 +82,7 @@ Quantum book store: This book is not for sale.
 
 ---
 
-## 🧠 OOP Concepts Used
+##  OOP Concepts Used
 
 * **Inheritance**: `PaperBook`, `EBook`, and `ShowcaseBook` all extend `BaseBook`
 * **Polymorphism**: The `buy()` method behaves differently depending on the book type
@@ -94,7 +94,7 @@ Quantum book store: This book is not for sale.
 
 
 
-## 📝 Notes
+##  Notes
 
 * All behaviors are simulated with print statements (no real email or shipping integration)
 * Console output always starts with `Quantum book store:` for clarity
